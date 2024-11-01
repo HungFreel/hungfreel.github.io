@@ -1,5 +1,3 @@
-# hungfreel.github.io
-
-## Data Analyst
+# Data Analytics Portfolio
 
 ### Learn about my projects
